@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Leaderboard</title>
+  <link rel="stylesheet" href="leaderboard.css">
+</head>
+<body>
+  <header>
+    <h1>Leaderboard</h1>
+  </header>
+  <main>
+    <div class="leaderboard-container">
+      <!-- Dnevni leaderboard -->
+      <section id="dailyLeaderboard">
+        <h2>Dnevni Rezultati</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>Ime</th>
+              <th>Email</th>
+              <th>Poeni</th>
+            </tr>
+          </thead>
+          <tbody id="dailyLeaderboardTable">
+            <!-- Dinamički se puni podacima -->
+          </tbody>
+        </table>
+      </section>
+  
+      <!-- Mesečni leaderboard -->
+      <section id="monthlyLeaderboard">
+        <h2>Mesečni Rezultati</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>Ime</th>
+              <th>Email</th>
+              <th>Poeni</th>
+            </tr>
+          </thead>
+          <tbody id="monthlyLeaderboardTable">
+            <!-- Dinamički se puni podacima -->
+          </tbody>
+        </table>
+      </section>
+  
+      <!-- All-Time leaderboard -->
+      <section id="allTimeLeaderboard">
+        <h2>All-Time Rezultati</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>Ime</th>
+              <th>Email</th>
+              <th>Poeni</th>
+            </tr>
+          </thead>
+          <tbody id="allTimeLeaderboardTable">
+            <!-- Dinamički se puni podacima -->
+          </tbody>
+        </table>
+      </section>
+    </div>
+  
+    <!-- Dugmad za pokretanje kviza i izlogovanje -->
+    <div class="button-container">
+        <button id="playGameButton">Igraj Kviz</button>
+        <button id="clearScoresButton">Obriši rezultate</button>
+        <button id="logoutButton">Izloguj se</button>
+    </div>
+  </main>  
+  <script src="leaderboard.js"></script>
+</body>
+</html>

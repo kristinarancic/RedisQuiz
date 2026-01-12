@@ -1,0 +1,85 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  header {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .leaderboard-container {
+    display: flex;
+    justify-content: space-around; /* Raspoređuje sekcije sa razmakom između */
+    flex-wrap: wrap; /* Omogućava prelom ukoliko prostor nije dovoljan */
+    gap: 20px; /* Razmak između sekcija */
+  }
+  
+  section {
+    flex: 1; /* Sekcija zauzima isti prostor */
+    max-width: 300px; /* Maksimalna širina sekcije */
+  }
+  
+  table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 100%; /* Tabela zauzima punu širinu sekcije */
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+  }
+  
+  th {
+    background-color: #333;
+    color: white;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+
+  .button-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px; /* Razmak između dugmadi */
+    margin-top: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+
+  button#logoutButton {
+    background-color: #6c757d;
+  }
+  
+  button#logoutButton:hover {
+    background-color: #5a6268;
+  }
+  
+  button#clearScoresButton {
+    background-color: #ffc107;
+  }
+  
+  button#clearScoresButton:hover {
+    background-color: #e0a800;
+  }
+  

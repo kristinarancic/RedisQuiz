@@ -1,0 +1,141 @@
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\bin\Debug\net8.0\appsettings.json
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\bin\Debug\net8.0\RedisProj.exe
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\bin\Debug\net8.0\RedisProj.deps.json
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\bin\Debug\net8.0\RedisProj.runtimeconfig.json
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\bin\Debug\net8.0\RedisProj.dll
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\bin\Debug\net8.0\RedisProj.pdb
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\obj\Debug\net8.0\RedisProj.csproj.AssemblyReference.cache
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\obj\Debug\net8.0\RedisProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\obj\Debug\net8.0\RedisProj.AssemblyInfoInputs.cache
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\obj\Debug\net8.0\RedisProj.AssemblyInfo.cs
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\obj\Debug\net8.0\RedisProj.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\obj\Debug\net8.0\RedisProj.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\obj\Debug\net8.0\RedisProj.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\obj\Debug\net8.0\staticwebassets\msbuild.RedisProj.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\obj\Debug\net8.0\staticwebassets\msbuild.build.RedisProj.props
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RedisProj.props
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RedisProj.props
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\obj\Debug\net8.0\scopedcss\bundle\RedisProj.styles.css
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\obj\Debug\net8.0\RedisProj.csproj.Up2Date
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\obj\Debug\net8.0\RedisProj.dll
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\obj\Debug\net8.0\refint\RedisProj.dll
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\obj\Debug\net8.0\RedisProj.pdb
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\obj\Debug\net8.0\RedisProj.genruntimeconfig.cache
+C:\Users\korisnik\Desktop\RedisProj\RedisProj\obj\Debug\net8.0\ref\RedisProj.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\bin\Debug\net8.0\appsettings.Development.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\bin\Debug\net8.0\appsettings.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\bin\Debug\net8.0\RedisProj.exe
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\bin\Debug\net8.0\RedisProj.deps.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\bin\Debug\net8.0\RedisProj.runtimeconfig.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\bin\Debug\net8.0\RedisProj.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\bin\Debug\net8.0\RedisProj.pdb
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\bin\Debug\net8.0\StackExchange.Redis.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\obj\Debug\net8.0\RedisProj.csproj.AssemblyReference.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\obj\Debug\net8.0\RedisProj.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\obj\Debug\net8.0\RedisProj.AssemblyInfoInputs.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\obj\Debug\net8.0\RedisProj.AssemblyInfo.cs
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\obj\Debug\net8.0\RedisProj.csproj.CoreCompileInputs.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\obj\Debug\net8.0\RedisProj.MvcApplicationPartsAssemblyInfo.cs
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\obj\Debug\net8.0\RedisProj.MvcApplicationPartsAssemblyInfo.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\obj\Debug\net8.0\RedisProj.sourcelink.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\obj\Debug\net8.0\staticwebassets.build.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\obj\Debug\net8.0\staticwebassets.development.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\obj\Debug\net8.0\staticwebassets\msbuild.RedisProj.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\obj\Debug\net8.0\staticwebassets\msbuild.build.RedisProj.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RedisProj.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RedisProj.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\obj\Debug\net8.0\scopedcss\bundle\RedisProj.styles.css
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\obj\Debug\net8.0\RedisProj.csproj.Up2Date
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\obj\Debug\net8.0\RedisProj.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\obj\Debug\net8.0\refint\RedisProj.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\obj\Debug\net8.0\RedisProj.pdb
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\obj\Debug\net8.0\RedisProj.genruntimeconfig.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Main\RedisProj\obj\Debug\net8.0\ref\RedisProj.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\bin\Debug\net8.0\appsettings.Development.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\bin\Debug\net8.0\appsettings.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\bin\Debug\net8.0\RedisProj.exe
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\bin\Debug\net8.0\RedisProj.deps.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\bin\Debug\net8.0\RedisProj.runtimeconfig.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\bin\Debug\net8.0\RedisProj.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\bin\Debug\net8.0\RedisProj.pdb
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\bin\Debug\net8.0\StackExchange.Redis.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\obj\Debug\net8.0\RedisProj.csproj.AssemblyReference.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\obj\Debug\net8.0\RedisProj.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\obj\Debug\net8.0\RedisProj.AssemblyInfoInputs.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\obj\Debug\net8.0\RedisProj.AssemblyInfo.cs
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\obj\Debug\net8.0\RedisProj.csproj.CoreCompileInputs.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\obj\Debug\net8.0\RedisProj.MvcApplicationPartsAssemblyInfo.cs
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\obj\Debug\net8.0\RedisProj.MvcApplicationPartsAssemblyInfo.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\obj\Debug\net8.0\RedisProj.sourcelink.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\obj\Debug\net8.0\staticwebassets.build.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\obj\Debug\net8.0\staticwebassets.development.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\obj\Debug\net8.0\staticwebassets\msbuild.RedisProj.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\obj\Debug\net8.0\staticwebassets\msbuild.build.RedisProj.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RedisProj.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RedisProj.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\obj\Debug\net8.0\scopedcss\bundle\RedisProj.styles.css
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\obj\Debug\net8.0\RedisProj.csproj.Up2Date
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\obj\Debug\net8.0\RedisProj.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\obj\Debug\net8.0\refint\RedisProj.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\obj\Debug\net8.0\RedisProj.pdb
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\obj\Debug\net8.0\RedisProj.genruntimeconfig.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\obj\Debug\net8.0\ref\RedisProj.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\RedisProj\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\bin\Debug\net8.0\appsettings.Development.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\bin\Debug\net8.0\appsettings.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\bin\Debug\net8.0\RedisProj.exe
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\bin\Debug\net8.0\RedisProj.deps.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\bin\Debug\net8.0\RedisProj.runtimeconfig.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\bin\Debug\net8.0\RedisProj.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\bin\Debug\net8.0\RedisProj.pdb
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\bin\Debug\net8.0\StackExchange.Redis.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\obj\Debug\net8.0\RedisProj.csproj.AssemblyReference.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\obj\Debug\net8.0\RedisProj.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\obj\Debug\net8.0\RedisProj.AssemblyInfoInputs.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\obj\Debug\net8.0\RedisProj.AssemblyInfo.cs
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\obj\Debug\net8.0\RedisProj.csproj.CoreCompileInputs.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\obj\Debug\net8.0\RedisProj.MvcApplicationPartsAssemblyInfo.cs
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\obj\Debug\net8.0\RedisProj.MvcApplicationPartsAssemblyInfo.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\obj\Debug\net8.0\RedisProj.sourcelink.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\obj\Debug\net8.0\staticwebassets.build.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\obj\Debug\net8.0\staticwebassets.development.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\obj\Debug\net8.0\staticwebassets\msbuild.RedisProj.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\obj\Debug\net8.0\staticwebassets\msbuild.build.RedisProj.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RedisProj.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RedisProj.props
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\obj\Debug\net8.0\scopedcss\bundle\RedisProj.styles.css
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\obj\Debug\net8.0\RedisProj.csproj.Up2Date
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\obj\Debug\net8.0\RedisProj.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\obj\Debug\net8.0\refint\RedisProj.dll
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\obj\Debug\net8.0\RedisProj.pdb
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\obj\Debug\net8.0\RedisProj.genruntimeconfig.cache
+F:\Documents\Elfak\Cetvrta godina\Napredne baze podataka\Redis projekat\Moja grana\RedisQuiz\BackEnd\RedisProj\obj\Debug\net8.0\ref\RedisProj.dll
